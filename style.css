@@ -1,0 +1,66 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+    margin: 0;
+    padding-bottom: 20px;
+    background-image: url(assets/CAES-E-GATOS-COM-SEUS-DONOS.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+form {
+    background-color: white;
+    width: 450px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    
+}
+
+nav {
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+nav img {
+    margin-left: 15px;
+    width: 150px;
+    height: 100px;
+
+}
+
+input{
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #cccccc;
+    outline: none;
+
+}
+
+select {
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    outline: none;
+}
+
+extarea {
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    outline: none;
+}
+
+form button {
+    width: 400px;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    background-color: burlywood;
+    align-items: center;
+}
